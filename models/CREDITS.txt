@@ -1,0 +1,4 @@
+Character bodies in this folder are CC0 1.0 (public domain):
+- body_male.glb / body_female.glb: "Universal Base Characters" (Standard, free) by Quaternius
+  https://quaternius.itch.io/universal-base-characters
+Repacked for this project: body mesh + skeleton only, 1024px normal/roughness maps.
